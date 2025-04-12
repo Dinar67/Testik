@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|c:\\users\\master\\desktop\\test\\wpf_test\\wpf_test\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|solutionrelative:wpf_test\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|c:\\users\\master\\desktop\\test\\wpf_test\\wpf_test\\components\\personcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|solutionrelative:wpf_test\\components\\personcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|c:\\users\\master\\desktop\\test\\wpf_test\\wpf_test\\components\\personcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|solutionrelative:wpf_test\\components\\personcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|c:\\users\\master\\desktop\\test\\wpf_test\\wpf_test\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|solutionrelative:wpf_test\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|c:\\users\\master\\desktop\\test\\wpf_test\\wpf_test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|solutionrelative:wpf_test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|c:\\users\\master\\desktop\\test\\wpf_test\\wpf_test\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|solutionrelative:wpf_test\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|c:\\users\\master\\desktop\\test\\wpf_test\\wpf_test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|solutionrelative:wpf_test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|c:\\users\\master\\desktop\\test\\wpf_test\\wpf_test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|solutionrelative:wpf_test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|c:\\users\\master\\desktop\\test\\wpf_test\\wpf_test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03B3C8F8-61C9-466E-A7BC-E0413758F029}|Wpf_Test\\Wpf_Test.csproj|solutionrelative:wpf_test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Components\\PersonControl.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf_Test\\Components\\PersonControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Components\\PersonControl.xaml.cs",
+              "RelativeToolTip": "Wpf_Test\\Components\\PersonControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:37:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Components\\PersonControl.xaml",
+              "RelativeDocumentMoniker": "Wpf_Test\\Components\\PersonControl.xaml",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Components\\PersonControl.xaml",
+              "RelativeToolTip": "Wpf_Test\\Components\\PersonControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T16:34:17.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf_Test\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Wpf_Test\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:29:22.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Wpf_Test\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Wpf_Test\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T16:28:33.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf_Test\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\App.xaml.cs",
+              "RelativeToolTip": "Wpf_Test\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:23:36.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Navigation.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Navigation.cs",
+              "RelativeDocumentMoniker": "Wpf_Test\\Navigation.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\Navigation.cs",
+              "RelativeToolTip": "Wpf_Test\\Navigation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:03:46.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf_Test\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Wpf_Test\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:00:20.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\App.xaml",
+              "RelativeDocumentMoniker": "Wpf_Test\\App.xaml",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\App.xaml",
+              "RelativeToolTip": "Wpf_Test\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T16:24:13.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Wpf_Test\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\Test\\Wpf_Test\\Wpf_Test\\MainWindow.xaml",
+              "RelativeToolTip": "Wpf_Test\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T16:00:28.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
